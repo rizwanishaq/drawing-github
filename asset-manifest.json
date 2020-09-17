@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drawing-github/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/drawing-github/static/js/main.38ca3e5c.chunk.js",
+    "main.js.map": "/drawing-github/static/js/main.38ca3e5c.chunk.js.map",
+    "runtime-main.js": "/drawing-github/static/js/runtime-main.bd6b02fd.js",
+    "runtime-main.js.map": "/drawing-github/static/js/runtime-main.bd6b02fd.js.map",
+    "static/js/2.6636db17.chunk.js": "/drawing-github/static/js/2.6636db17.chunk.js",
+    "static/js/2.6636db17.chunk.js.map": "/drawing-github/static/js/2.6636db17.chunk.js.map",
+    "index.html": "/drawing-github/index.html",
+    "precache-manifest.80812f92f7042a004fb039eae89123a7.js": "/drawing-github/precache-manifest.80812f92f7042a004fb039eae89123a7.js",
+    "service-worker.js": "/drawing-github/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/drawing-github/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.6636db17.chunk.js.LICENSE.txt": "/drawing-github/static/js/2.6636db17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd6b02fd.js",
+    "static/js/2.6636db17.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.38ca3e5c.chunk.js"
+  ]
+}
